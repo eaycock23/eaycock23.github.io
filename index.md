@@ -1,4 +1,4 @@
----
-layout: default
----
-test
+ Home
+
+Hello World!
+============
