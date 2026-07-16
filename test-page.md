@@ -1,3 +1,3 @@
 layout: page
-title: "PAGE-TITLE"
+title: "test-page"
 permalink: /URL-PATH
