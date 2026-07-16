@@ -1,4 +1,4 @@
 ---
-layout = default
-title = main
+layout: default
+title: main
 ---
