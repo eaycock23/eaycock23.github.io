@@ -1,5 +1,11 @@
  Home
 
 Hello World!
-
-'code'
+==========
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
