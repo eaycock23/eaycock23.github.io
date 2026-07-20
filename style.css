@@ -1,0 +1,44 @@
+body{
+	background-color:#b2f7ef; 
+	font-family: "papyrus";
+	margin: 0;
+}
+
+head{
+	margin: 0;
+}
+
+h1{
+	color: 	#191970;
+	text-align: center;
+	font-weight: bolder;
+}
+h6{
+	color:#DAA520;
+
+}
+h4{
+	color:#000000;
+}
+img{
+	width:100%;
+	height: auto;
+}
+h2{
+	text-decoration: underline;
+}
+
+.sidebar {
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+	background-color: #f1f1f1;
+	border-right: 6px groove black;
+}
+
+.main_text{
+	margin-left: 250px;
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{page.title | default: "oops" }}</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<div class = "sidebar">
+			<a href = "#">Test</a>
+		</div>
+		<div class = "main_text">
+			<h1>
+				{{page.title| default: "oops"}}		
+			</h1>
+			{{content}}
+		</div>
+		
+	</body>
+</html>
