@@ -35,8 +35,8 @@ h2{
 	position: fixed;
 	height: 100%;
 	overflow: auto;
-	background-color: #f1f1f1;
-	border-right: 6px groove black;
+	background-color: #588b85;
+	border-right: 6px groove #191970;
 }
 
 .main_text{
