@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>{{page.title | default: "oops" }}</title>
-		<link rel="stylesheet" type="text/css" href="style.css">
-	</head>
-	<body>
-		<div>
-			<h1>
-				{{page.title| default: "oops"}}		
-			</h1>
-			{{content}}
-		</div>
-		
-	</body>
+	<div class = "sidenav">
+		<a href = "#">Test</a>
+	</div>
+	<div class = "content"></div>
+		<head>
+			<title>{{page.title | default: "oops" }}</title>
+			<link rel="stylesheet" type="text/css" href="style.css">
+		</head>
+		<body>
+			<div>
+				<h1>
+					{{page.title| default: "oops"}}		
+				</h1>
+				{{content}}
+			</div>
+			
+		</body>
+	</div>
 </html>
