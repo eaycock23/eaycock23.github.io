@@ -3,6 +3,11 @@ body{
 	font-family: "papyrus";
 	margin: 0;
 }
+
+head{
+	margin: 0;
+}
+
 h1{
 	color: 	#191970;
 	text-align: center;
