@@ -1,6 +1,4 @@
 body{
-	background-repeat: repeat-x;
-	background-image:url("ocean.gif");
 	background-color:#b2f7ef; 
 	font-family: "papyrus";
 }
@@ -8,10 +6,6 @@ h1{
 	color: 	#191970;
 	text-align: center;
 	font-weight: bolder;
-}
-#myH{
-	text-align: center;
-	font-size: 20pt;
 }
 h6{
 	color:#DAA520;
@@ -34,31 +28,8 @@ img{
 	height: 5%;
 
 }
-#myCrab{
-	width:20%;
-	height: 20%; 
-	border:  10px groove #D2691E;	
-}
-td{
-	border: 1px solid black;
-	text-align: center;
-}
-#myTd{
-	font-weight: bolder;
-}
 h2{
 	text-decoration: underline;
-}
-a:hover{
-	font-size: 30pt;
-	font-weight: bolder;
-	color: #00FF00;
-}
-#myPar{
-	color:#FF1493;
-}
-#myA{
-	color:#FF00FF;
 }
 
 
